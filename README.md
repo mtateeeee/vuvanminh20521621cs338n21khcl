@@ -4,14 +4,14 @@
    </a>
 </p>
 <h1 align="center">
-    Cấu trúc dữ liệu và giải thuật nâng cao - CS523.M21.KHCL
+    NHẬN DẠNG - CS338.N21.KHCL
 </h1>
 
 <h2>
    Giới thiệu môn học   
 </h2>
 
-- **Tên môn học:** NHẬN 
+- **Tên môn học:** NHẬN DẠNG
 - **Mã môn học:** CS338
 - **Mã lớp:** CS338.N21.KHCL
 - **Giảng viên:** ĐỖ VĂN TIẾN tiendv@uit.edu.vn
